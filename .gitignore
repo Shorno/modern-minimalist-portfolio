@@ -39,4 +39,3 @@ next-env.d.ts
 /public/**/*.jpg
 /public/**/*.jpeg
 /public/**/*.gif
-/public/**/*.svg
